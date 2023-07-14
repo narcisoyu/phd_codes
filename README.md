@@ -1,2 +1,2 @@
 # phd_codes
-All codes from my PhD program
+Example codes from my phd @UAB-Barcelona
